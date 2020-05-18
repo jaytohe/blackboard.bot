@@ -3,7 +3,7 @@ A Python bot that joins your online class on BlackBoard Collaborate Ultra.
 
 _Bored of having to join your online class every time? 
 Are you rarely asked a single question during the online lesson? 
-Do you straight up don't give a shit about that class?_
+Do you straight up don't give a hoot about that class?_
 
 _**Welp! Look no further, mi amigo! This Python bot/script is the perfect solution for your hurldes!**_
 
@@ -28,7 +28,7 @@ Hopefully somebody can fix this cuz I cannot figure out what is going on.
 
 Open-up bot.py in a text editor and do the following:
 
-* Edit the URL var with your BlackBoard Collaborate Ultra invite link.
+* Edit the ```URL``` var with your BlackBoard Collaborate Ultra invite link.
 * Edit the ```T_UNITL_LEAVE``` var to tell bot the maximum time it should stay in class. **Default is 1.64 hrs**
 * Edit the ```LEAVE_IF_USERS_DECREASE_BY``` var to tell bot to exit class if at least so many ppl exit. **Default is 3.**
 * Run.
